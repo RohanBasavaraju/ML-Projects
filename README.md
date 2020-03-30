@@ -25,5 +25,5 @@ Now that you have set up our machine learning project, you are ready to dive dee
 
 Congratulations! You are have now completed your very own machine learning project! There are a number of ways that you can share with the world what you've accomplished and learned through your project. One scalable method of sharing machine learning projects on the internet is by uploading your project's code file along with a description of the project to GitHub. From there, you can make your project publicly available, so anyone can view your project's summary and details and learn how you went through solving your problem with machine learning. Best of luck!
 
-Credits:
+# Credits:
 The inspiration behind my machine learning projects for predictive modeling is from "Machine Learning Mastery with Python" by Jason Brownlee.
