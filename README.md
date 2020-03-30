@@ -1,4 +1,4 @@
-# Predictive Modeling Project Template (inspiration from "Machine Learning Mastery with Python" by Jason Brownlee)
+# Machine Learning Project Template 
 
 1) Describe Problem
 
@@ -13,3 +13,6 @@
 6) Finalize Model
 
 7) Present Results
+
+Credits:
+The inspiration behind my machine learning projects for predictive modeling is from "Machine Learning Mastery with Python" by Jason Brownlee.
