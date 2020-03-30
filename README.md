@@ -1,8 +1,6 @@
 # Project Template: Machine Learning for Predictive Modeling (with Python)
 
-In this file, I explain how you can solve any empirical problem with machine learning with just a few simple steps and an interest in predictive modeling. I then apply this project template to completing end-to-end machine learning projects for three predictive modeling problems: iris flower classification, boston housing price regression analysis, and geologic materials detection & classification. The Python code and CSV data files for all three projects are in this repository.
-
-Let's get started!
+In this file, I explain how you can solve any empirical problem with machine learning with just a few simple steps and an interest in predictive modeling. In this repository, I also include the data and code for the three problems to which  this project template was applied: iris flower classification, boston housing price regression analysis, and geologic materials detection & classification. Let's get started!
 
 # 1) Define Problem
 
