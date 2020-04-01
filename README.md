@@ -4,7 +4,7 @@ In this file, I explain how you can solve any empirical problem with machine lea
 
 # 1) Define Problem
 
-The key is to first identify a real-world problem that is challenging to solve without empirical evidence/data (e.g. classifying different types of plants/rocks, predicting urban housing markets, etc). This problem will ideally have a significant impact on your life, and you solving this problem with machine learning should be extremely helpful to this task. In turn, when you encounter this problem in the future, you should be able to provide a reliable and accurate solution.
+The key is to first identify a real-world problem that is challenging to solve without empirical evidence/data (e.g. classifying different types of plants/rocks, predicting urban housing markets, etc). This problem will ideally have a significant impact on your life, and you solving this problem with machine learning should be extremely helpful to this task.
 
 After the problem has been identified, the next step is to locate and store datasets of past instances of the problem at hand. A common and simple way of storing datasets is by using a CSV file. Next, you must find and install the software tools required to model your dataset via for making predictions. In my projects, I use the Python programming language and its Scikit-learn, SciPy, NumPy, Pandas, and Matplotlib libraries. Afterwards, create a code file in your IDE of choice (e.g. Atom), and place your project in a folder that includes the file and your dataset. In the code file, import the libraries and load the dataset that you will be using.
 
