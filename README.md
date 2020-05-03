@@ -53,4 +53,4 @@ The final step in completing your machine learning project is finalizing your op
 Congratulations! You are have now completed your very own machine learning project! There are a number of ways that you can share with the world what you've accomplished and learned through your project. One scalable method of sharing machine learning projects on the internet is by uploading your project's code file along with a description of the project to GitHub. From there, you can make your project publicly available, so anyone can view your project's summary and details and learn how you went through solving your problem with machine learning. Best of luck!
 
 # Credits:
-The inspiration behind this repository is from "Machine Learning Mastery with Python" by Jason Brownlee. I have grown my machine learning skillset by completing IBM's professional certificate in Artificial Intelligence.
+The inspiration behind this repository is from Jason Brownlee's "Machine Learning Mastery with Python" and IBM's professional certificate in Artificial Intelligence (AI) Engineering.
