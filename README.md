@@ -1,6 +1,6 @@
 # Project Template: Machine Learning for Predictive Modeling (with Python)
 
-In this file, I explain how you can solve any empirical problem with machine learning in just a few simple steps. In this repository, I also include the data and code for all the projects to which this template is applied. Let's begin!
+In the following sections, I explain how you can solve any empirical problem with machine learning in just a few simple steps. Let's begin!
 
 # 1) Define Problem
 
@@ -53,4 +53,4 @@ The final step in completing your machine learning project is finalizing your op
 Congratulations! You are have now completed your very own machine learning project! There are a number of ways that you can share with the world what you've accomplished and learned through your project. One scalable method of sharing machine learning projects on the internet is by uploading your project's code file along with a description of the project to GitHub. From there, you can make your project publicly available, so anyone can view your project's summary and details and learn how you went through solving your problem with machine learning. Best of luck!
 
 # Credits:
-The inspiration behind this repository is from "Machine Learning Mastery with Python" by Jason Brownlee and IBM's professional certificate in Artificial Intelligence (AI) Engineering on Coursera.
+The inspiration behind this repository is from "Machine Learning Mastery with Python" by Jason Brownlee along with IBM's professional certification in Artificial Intelligence.
