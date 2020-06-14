@@ -1,6 +1,6 @@
 # Project Template: Machine Learning for Predictive Modeling (with Python)
 
-In the following sections, I explain how you can solve any empirical problem with machine learning in just a few simple steps. Let's get started!
+In the following sections, I explain how you can solve real-world problems with machine learning in just a few simple steps. Let's get started!
 
 # 1) Define Problem
 
